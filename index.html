@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>The Five Chapters of You — Digital Book</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="book-shell" id="bookShell">
+    <div class="cover-outer">
+      <div class="book-cover" id="bookCover">
+        <div class="cover-content">
+          <h1 class="cover-title">The Five<br />Chapters of You</h1>
+          <div class="cover-ornament"></div>
+          <p class="cover-author">By Paul</p>
+          <p class="cover-hint">Click to open</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="book-frame" id="bookFrame">
+      <div class="book-outer">
+        <div class="book-container">
+          <div class="book">
+            <div class="spine"></div>
+
+            <div class="page-container">
+              <div class="page-left-content" id="pageLeft">
+                <div class="blank-page">This page intentionally left blank</div>
+              </div>
+            </div>
+
+            <div class="page-right-container" id="pageRightContainer">
+            </div>
+          </div>
+        </div>
+
+        <div class="controls-bar">
+          <div class="nav-buttons">
+            <button class="nav-btn" id="prevBtn" aria-label="Previous page">
+              <span>←</span><span>Previous</span>
+            </button>
+            <button class="nav-btn" id="nextBtn" aria-label="Next page">
+              <span>Next</span><span>→</span>
+            </button>
+          </div>
+
+          <div class="status" aria-live="polite">
+            <span id="pageStatus">Pages 1-2 of 22</span>
+          </div>
+
+          <button class="audio-toggle" id="audioToggle" aria-pressed="false">
+            <span>♪</span>
+            <span>Sound</span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <audio id="bgMusic" loop preload="auto">
+      <source src="terrified.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

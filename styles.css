@@ -39,7 +39,7 @@ body {
 .cover-outer {
   max-width: 550px;
   margin: 0 auto;
-  background: linear-gradient(135deg, #3a3a3a, #4a4a4a);
+  background: linear-gradient(135deg, #A8D5E2, #8fc5d6);
   border-radius: 12px;
   padding: 2.5rem;
   box-shadow: 
@@ -154,7 +154,7 @@ body {
 }
 
 .book-outer {
-  background: linear-gradient(135deg, #3a3a3a, #4a4a4a);
+  background: linear-gradient(135deg, #A8D5E2, #8fc5d6);
   border-radius: 12px;
   padding: 2.5rem;
   box-shadow: 

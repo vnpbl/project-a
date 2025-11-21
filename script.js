@@ -88,7 +88,7 @@
           <p>i hope life gives back to you everything you've quietly given away without expecting anything in return : D<span class="quote-attribution">— Astraea</span></p>
           <p>hello, ate aza : D thank you for being one of the coolest and most precious people i've met this year. i hope you keep doing what you want but not forgetting to rest, i love you big time!<span class="quote-attribution">— Sunrise</span></p>
           <p>"The Lord himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged" (Deut. 31:8, NIV).<span class="quote-attribution">— Candy</span></p>
-          <p>hello, my Aza! I hope you know that you're valued, not just for what you do, but for who you are po. you're thoughtful, genuine, and strong in ways you probably don't even notice. you deserve people who treat you with the same kindness and sincerity you give to others. i'll always be here for you, my Aza, in the best days and even in the heavy ones : )<span class="quote-attribution">— Alinea</span></p>
+          <p>hello, my Aza! I hope you know that you're valued, not just for what you do, but for who you are po. you're thoughtful, genuine, and strong in ways you probably don't even notice. you deserve people who treat you with the same kindness and sincerity you give to others. i'll always be here for you, my Aza, in the best days and even in the heavy ones : )<span class="quote-attribution">— Alinéa</span></p>
 
         </div>
         <div class="page-footer">
@@ -98,7 +98,7 @@
     ],
     [
       `<div class="friends-quote" style="margin-top: 2rem;">
-          <p>Thank you for existing, for bringing joy to our lives... I hope you don't overwork yourself — and i hope you know that i'll always be here for you, to support you. I hope you know how much I appreciate you — thank you for checking on us despite your busy schedules, thank you for supporting us, and for giving us so much love. . . you are truly one of the most genuine person i ever met. I love you from the bottom of my heart, ate Aza.<span class="quote-attribution">— Cressaria</span></p>
+          <p>Thank you for existing, for bringing joy to our lives... I hope you don't overwork yourself — and i hope you know that i'll always be here for you, to support you. I hope you know how much I appreciate you — thank you for checking on us despite your busy schedules, thank you for supporting us, and for giving us so much love... you are truly one of the most genuine person i ever met. I love you from the bottom of my heart, ate Aza.<span class="quote-attribution">— Cressaria</span></p>
         </div>
         <div class="body-text" style="margin-top: 0.8rem;">
           <p>

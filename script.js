@@ -113,37 +113,37 @@
         <div class="section-title">Table of Contents</div>
         <div class="divider"></div>
         <ul class="toc-list">
-          <li class="toc-item" data-target="5">
+          <li class="toc-item" data-target="4">
             <span class="toc-left">
               <span class="toc-title-text">You, as a Comfort</span>
             </span>
             <span class="toc-page">Page 8</span>
           </li>
-          <li class="toc-item" data-target="6">
+          <li class="toc-item" data-target="5">
             <span class="toc-left">
               <span class="toc-title-text">Your Strength</span>
             </span>
             <span class="toc-page">Page 10</span>
           </li>
-          <li class="toc-item" data-target="7">
+          <li class="toc-item" data-target="6">
             <span class="toc-left">
               <span class="toc-title-text">Your Humor</span>
             </span>
             <span class="toc-page">Page 12</span>
           </li>
-          <li class="toc-item" data-target="8">
+          <li class="toc-item" data-target="7">
             <span class="toc-left">
               <span class="toc-title-text">Your Heart</span>
             </span>
             <span class="toc-page">Page 14</span>
           </li>
-          <li class="toc-item" data-target="9">
+          <li class="toc-item" data-target="8">
             <span class="toc-left">
               <span class="toc-title-text">You, as a Whole</span>
             </span>
             <span class="toc-page">Page 16</span>
           </li>
-          <li class="toc-item" data-target="10">
+          <li class="toc-item" data-target="9">
             <span class="toc-left">
               <span class="toc-title-text">Bonus Chapter</span>
             </span>
